@@ -1,4 +1,4 @@
-'use server'
+'use server' // code will be run on the server
 
 import { revalidatePath } from 'next/cache'
 
